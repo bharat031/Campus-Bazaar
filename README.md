@@ -1,31 +1,25 @@
-# bechdal_app
-Bechdal is an Flutter based Hybrid app, mainly created to learn advance concepts of flutter and firebase. It is a type of OLX App, where user can buy, sell and favourtes products. The user also have the permission to chat with the seller.
-
+# campus_bazaar_app
+Campus Bazaar is a Flutter-based hybrid app developed to explore advanced concepts of Flutter and Firebase. It serves as a campus-specific reselling platform where students can buy, sell, and favorite products. The app also enables users to chat directly with sellers, making transactions more convenient and secure within the college community.
 
 ## Firebase DB Structure
 <table>
 <tr>
- <td><img src="assets/screenshots/firebase/category_data.png"  alt="1" width = 500 ></td>   
-  <td><img src="assets/screenshots/firebase/messages_data.png"  alt="1" width = 500></td>   
+ <td><img src="assets/screenshots/firebase/firestore.jpeg"  alt="1" width = 500 ></td> 
 </tr>
 </table>
+
 <table>
 <tr>
- <td><img src="assets/screenshots/firebase/user_data.png"  alt="1" width = 500  ></td>   
-  <td><img src="assets/screenshots/firebase/product_data.png"  alt="1" width = 500 ></td>   
+ <td><img src="assets/screenshots/firebase/auth.png"  alt="1" width = 500  ></td>    
 </tr>
 </table>
-<table>
-<tr>
- <td><img src="assets/screenshots/firebase/storage_settings.png"  alt="1" width = "500"  ></td>   
-  <td><img src="assets/screenshots/firebase/user_chat_data.png"  alt="1" width = 500 ></td>   
-</tr>
-</table>
+
 <table>
 <tr>
  <td><img src="assets/screenshots/firebase/performance.png"  alt="1"></td>   
 </tr>
 </table>
+
 ## Mobile UI
 <table style="padding:10px">
   <tr>
