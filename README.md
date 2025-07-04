@@ -50,7 +50,7 @@ Campus Bazaar is a Flutter-based hybrid app developed to explore advanced concep
  <table>
   <tr>
   <td><img src="./assets/screenshots/category.jpeg"  alt="1" width = 320 height = 600px ></td>   
-    <td><img src="./assets/screenshots/chat_user" align="right" alt="2" width = 320 height = 600px></td>
+    <td><img src="./assets/screenshots/chat_user.jpeg" align="right" alt="2" width = 320 height = 600px></td>
   </tr>
   </table>
   
