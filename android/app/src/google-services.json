@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "822249801328",
+    "project_id": "campus-baazar",
+    "storage_bucket": "campus-baazar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822249801328:android:b46c52dd0a175eafd5d6b5",
+        "android_client_info": {
+          "package_name": "com.example.bechdal_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822249801328-dcg424j3ob26sosto6bv4c0vb5esoecq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bechdal_app",
+            "certificate_hash": "9fea1788eb4052740ba08f3b663e0765a680de82"
+          }
+        },
+        {
+          "client_id": "822249801328-f926u9ml8i99uite0lvim218lr5rb56f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA9Pjk9hWwq3FzloXPUmSTzoiJDbXfhHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822249801328-f926u9ml8i99uite0lvim218lr5rb56f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
