@@ -10,13 +10,13 @@ Campus Bazaar is a Flutter-based hybrid app developed to explore advanced concep
 
 <table>
 <tr>
- <td><img src="assets/screenshots/firebase/auth.png"  alt="1" width = 500  ></td>    
+ <td><img src="assets/screenshots/firebase/auth.jpeg"  alt="1" width = 500  ></td>    
 </tr>
 </table>
 
 <table>
 <tr>
- <td><img src="assets/screenshots/firebase/performance.png"  alt="1"></td>   
+ <td><img src="assets/screenshots/firebase/performance.jpeg"  alt="1"></td>   
 </tr>
 </table>
 
